@@ -1,0 +1,37 @@
+.from-group{
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-image: url('../src/images/bg.png')
+}
+.fied{
+  list-style: none;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.block{
+  border: 5px solid #6DBBAD;
+  border-radius: 10px;
+  background: #6DBBAD;
+  height: 250px;
+  width: 500px;
+  padding: 1rem;
+}
+.fied-form{
+  justify-content: center;
+  display: flex;
+  margin-top: 15px;
+}
+.box{
+  border-radius: 15px;
+  border: 1px solid #6DBBAD;
+  height: 25px;
+}
+.fied-button{
+  justify-content: center;
+  margin-top: 15px;
+  display: flex;
+  border-radius: 15px;
+}
